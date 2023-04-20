@@ -8,7 +8,11 @@ MC68030の配線が必要なピンは下側にアンダーラインがありま�
  
 10k x2  
 0.1uF x3  
-47uF/25V x1  
+47uF/25V x1 
+
+RAM U2 = TC551001CP-85L  
+オレンジピコショップ  
+https://store.shopping.yahoo.co.jp/orangepicoshop/pico-i-009.html  
 
 ![MEZ68030RAM PCB TOP](https://github.com/satoshiokue/MEZ68030RAM/blob/main/MEZ68030RAM_top.jpg)  
 
